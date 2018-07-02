@@ -1,0 +1,19 @@
+.navcolor {
+    background-color: #3c3c3c !important;
+}
+.textcenter {
+    text-align: center;
+}
+body {
+    background: #c9ed00;
+}
+.nav-link {
+    color: #c9ed00 !important;
+}
+.cardb {
+    margin-bottom: 20px;
+}
+.picsizev {
+    width: 100px;
+    height: 50px;
+}
